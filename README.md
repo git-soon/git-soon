@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 
 
------------
+---
 
-skills *& stack
+##skills & stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
