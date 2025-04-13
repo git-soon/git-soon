@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![tropical_github](https://github.com/user-attachments/assets/47434dd9-b6c2-4018-8f82-0ed2626485b8)
 <!--
 **git-soon/git-soon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
