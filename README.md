@@ -13,19 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 
 - ⚡ Fun fact: i love 🏍️ 
 -->
-- ❤️❤️❤️ Hello! welcome to my git hub ❤️❤️❤️
+- ❤️❤️❤️ Hello! welcome to git-soon hub ❤️❤️❤️
 ---  
 - 🔭 I’m currently working on : I’m currently working on nowhere
 - 🌱 I’m currently learning : I’m currently learning C++
 - 👯 I’m looking to collaborate on : I’m looking to collaborate on energy auto system 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 🇰🇷
-- 📫 How to reach me: sand 📧 charleskimjr88@gmail.com
 - ⚡ Fun fact: i love 🏍️ 
 
 ---
+## More Info
+<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">  📧 charleskimjr88@gmail.com 
 
 
+
+---
 ## skills & stack
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
